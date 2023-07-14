@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+github-readme-stats.vercel.app/api?username={bwh1270}&show_icons=true&theme=dark
+
 <!--
 **bwh1270/bwh1270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
